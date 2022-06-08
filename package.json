@@ -1,0 +1,24 @@
+{
+  "name": "wtm",
+  "version": "1.0.0",
+  "description": "npm example 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test to perform\"\u001b[D\\\u001b[C\u001b[D\u001b[D\u0001\u0001\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\" && exit1\u001b[D \u001b[3~1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/voytus/node-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "author": "WTM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voytus/node-npm/issues"
+  },
+  "homepage": "https://github.com/voytus/node-npm#readme"
+}
